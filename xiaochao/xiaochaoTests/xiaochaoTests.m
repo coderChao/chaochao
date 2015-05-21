@@ -1,6 +1,6 @@
 //
-//  zhangchaoTests.m
-//  zhangchaoTests
+//  xiaochaoTests.m
+//  xiaochaoTests
 //
 //  Created by 张超 on 15-5-21.
 //  Copyright (c) 2015年 张超. All rights reserved.
@@ -9,11 +9,11 @@
 #import <UIKit/UIKit.h>
 #import <XCTest/XCTest.h>
 
-@interface zhangchaoTests : XCTestCase
+@interface xiaochaoTests : XCTestCase
 
 @end
 
-@implementation zhangchaoTests
+@implementation xiaochaoTests
 
 - (void)setUp {
     [super setUp];
